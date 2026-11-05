@@ -1,4 +1,4 @@
-# Da Estatística ao Python
+# Curso de visualização de dados em Python para pesquisa em Ciências Sociais
 
 Caderno de campo interativo do minicurso **Visualização de Dados em Python para Pesquisa em Ciências Sociais**, feito para a Semana Acadêmica de Ciências Sociais da UFV.
 
@@ -15,7 +15,7 @@ O material serve de ponte entre a disciplina de Estatística e a análise de dad
 
 ## Como usar
 
-Abra o `index.html` no navegador. Não precisa instalar nada, e o progresso e o nome ficam salvos no próprio navegador.
+Acesse pdvrx.github.io/minicurso
 
 Para rodar os códigos de verdade, use o [Google Colab](https://colab.research.google.com/). O Dia 1 explica o passo a passo.
 
